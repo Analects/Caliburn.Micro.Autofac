@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Analects.Caliburn.Micro.Autofac</id>
+    <version>1.0.0</version>
+    <title>Analects.Caliburn.Micro.Autofac</title>
+    <authors>distantcam</authors>
+    <owners>distantcam</owners>
+    <licenseUrl>http://www.opensource.org/licenses/apache2.0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides an Autofac enabled bootstrapper for Caliburn.Micro.</description>
+    <summary>Integration of Caliburn.Micro with Autofac.</summary>
+    <tags>Caliburn.Micro Autofac IoC DI MVVM</tags>
+    <dependencies>
+      <dependency id="Caliburn.Micro" />
+      <dependency id="Autofac" />
+    </dependencies>
+  </metadata>
+</package>
