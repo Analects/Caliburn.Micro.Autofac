@@ -6,7 +6,7 @@
     <title>Analects.Caliburn.Micro.Autofac</title>
     <authors>distantcam</authors>
     <owners>distantcam</owners>
-    <licenseUrl>http://www.opensource.org/licenses/apache2.0</licenseUrl>
+    <licenseUrl>http://opensource.org/licenses/mit-license.php</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Provides an Autofac enabled bootstrapper for Caliburn.Micro.</description>
     <summary>Integration of Caliburn.Micro with Autofac.</summary>
